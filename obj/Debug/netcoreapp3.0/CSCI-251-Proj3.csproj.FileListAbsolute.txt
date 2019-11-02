@@ -1,0 +1,11 @@
+C:\Users\colin\projects\rit\CSCI-251-Proj3\obj\Debug\netcoreapp3.0\CSCI-251-Proj3.csprojAssemblyReference.cache
+C:\Users\colin\projects\rit\CSCI-251-Proj3\obj\Debug\netcoreapp3.0\CSCI-251-Proj3.AssemblyInfoInputs.cache
+C:\Users\colin\projects\rit\CSCI-251-Proj3\obj\Debug\netcoreapp3.0\CSCI-251-Proj3.AssemblyInfo.cs
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.exe
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.deps.json
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.runtimeconfig.json
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.runtimeconfig.dev.json
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.dll
+C:\Users\colin\projects\rit\CSCI-251-Proj3\bin\Debug\netcoreapp3.0\CSCI-251-Proj3.pdb
+C:\Users\colin\projects\rit\CSCI-251-Proj3\obj\Debug\netcoreapp3.0\CSCI-251-Proj3.dll
+C:\Users\colin\projects\rit\CSCI-251-Proj3\obj\Debug\netcoreapp3.0\CSCI-251-Proj3.pdb
